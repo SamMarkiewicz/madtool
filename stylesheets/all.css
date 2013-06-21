@@ -70,7 +70,6 @@ footer .ico-twitter {text-indent:-119988px;overflow:hidden;text-align:left;backg
 footer .ico-youtube {text-indent:-119988px;overflow:hidden;text-align:left;background-image:url("/images/ico-youtube.png");background-repeat:no-repeat;background-position:"0" "0";width:46px;height:46px}
 @media only screen and (max-width:800px) {body {border:15px solid #f8f8f8;padding-bottom:1em}
 h1 {background-position:left center;background-size:80%}
-h4+p{font-size:.9em !important}
 #open-nav {display:block}
 nav {width:100%}
 .m-list--connect {-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;position:absolute;top:3%;right:5%}
@@ -98,6 +97,7 @@ footer {position:relative;top:1em;margin-top:2em}
 h2 {font-size:97%;width:100% !important;padding:0 !important;position:relative !important}
 h3 {font-size:1.3em;line-height:1.3em}
 h3 + p {font-size:.9em !important}
+h4 + p{font-size:.9em !important}
 .m-box--main-goal ol {margin-bottom:2em !important}
 .m-box--main-goal li,.m-box--tool-desc li {width:100% !important;min-height:auto}
 .m-box--main-goal img,.m-box--tool-desc img {width:50% !important}
