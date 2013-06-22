@@ -23,7 +23,7 @@ nav {width:57.03934%;float:right;margin-right:0;*margin-left:-30px;display:inlin
 nav li {display:inline-block;zoom:1;*display:inline}
 .m-list--connect {margin:.75em 0;width:54.80944%;float:right;margin-right:0;*margin-left:-30px;display:inline}
 .m-list--connect li {width:45.03311%;float:left;margin-right:9.93377%;display:inline}
-.m-list--concet a:hover {opacity:.8; filter: alpha(opacity=80)}
+.m-list--connect a:hover {opacity:.8; filter: alpha(opacity=80)}
 .m-list--connect li + li {width:45.03311%;float:right;margin-right:0;*margin-left:-30px;display:inline}
 .m-link--signin,.m-link--signup {font-size:1.14286em;line-height:2.125em;font-weight:600;padding:.35em 0;text-align:center;display:block;line-height:1}
 .m-link--signin:hover,.m-link--signup:hover {border:3px solid #fa7f0a}
